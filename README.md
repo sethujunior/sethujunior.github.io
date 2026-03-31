@@ -57,3 +57,10 @@ CPUT
 CPUT  
 📧 ndyalivanaz@cput.ac.za  
 📞 062 0301 601
+
+---
+## Mock Interview Video
+https://github.com/user-attachments/assets/bcf894c8-dbba-4de3-9e65-7283bdc6900d
+
+
+
