@@ -43,7 +43,8 @@ Diploma in ICT (Applications Development)
 ---
 ## Version Control
 - Git  
-- GitHub  
+- GitHub
+- Figma
 
 ---
 ## References
