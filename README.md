@@ -61,6 +61,51 @@ CPUT
 
 ---
 ## Mock Interview Video
+https://github.com/user-attachments/assets/cf188ac1-da16-4b85-8532-08b43730afe9
+
+---
+## Reflection on Coding in Markdown (STAR Method)
+
+**Situation:**  
+I was required to create a professional GitHub portfolio using Markdown, a language I had little practical experience with before.
+
+**Task:**  
+My goal was to structure and present my information clearly, including my skills, projects, and background, in a way that is readable and professional.
+
+**Action:**  
+I learned Markdown syntax, such as headings, lists, bold text, and links. I applied these to organise my portfolio into clear sections like About Me, Skills, and Projects. I also refined the layout to improve readability and presentation.
+
+**Result:**  
+I successfully created a clean and structured GitHub portfolio. I now understand how to use Markdown effectively to present information in a professional way.
+
+---
+## Reflection on Mock Interview Video Experience (STAR Method)
+**Situation:**  
+I participated in a mock interview video to simulate a real job interview environment.
+
+**Task:**  
+My objective was to communicate clearly, present myself professionally, and answer questions confidently.
+
+**Action:**  
+I prepared by reviewing common interview questions and practicing my responses. During the interview, I focused on speaking clearly, maintaining good posture, and explaining my answers in a structured way.
+
+**Result:**  
+The experience helped me identify areas for improvement, such as confidence and communication. It also improved my ability to present myself professionally in an interview setting.
+
+---
+## Reflection on the Use of GitHub Pages (STAR Method)
+
+**Situation:**  
+I used GitHub Pages to publish and showcase my portfolio online.
+
+**Task:**  
+My goal was to create an accessible online presence where my work and projects could be viewed by others.
+
+**Action:**  
+I set up GitHub Pages and linked it to my repository. I ensured my content was well-structured and easy to navigate. I also tested the site to make sure it worked correctly.
+
+**Result:**  
+I successfully published my portfolio online, making it accessible to others. I now understand how GitHub Pages can be used to showcase projects and build a professional online presence.
 
 
 
