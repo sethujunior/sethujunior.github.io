@@ -61,7 +61,7 @@ CPUT
 
 ---
 ## Mock Interview Video
-https://github.com/user-attachments/assets/cf188ac1-da16-4b85-8532-08b43730afe9
+<video src="https://github.com/user-attachments/assets/cf188ac1-da16-4b85-8532-08b43730afe9></vido?e
 
 ---
 ## Reflection on Coding in Markdown (STAR Method)
