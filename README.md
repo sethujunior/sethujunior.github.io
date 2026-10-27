@@ -127,7 +127,8 @@ My role was **Product Owner**. My responsibility was to help ensure that the fin
 ---
 ### Agile Team Charter
 ---
-**Evidence:** [GugsLocalConnect Agile Team Charter]
+**Evidence:** 
+[PRP3 TEAM CHARTER 1.docx](https://github.com/user-attachments/files/34042790/PRP3.TEAM.CHARTER.1.docx)
 
 The Agile Team Charter defines the purpose of GugsLocalConnect, the team's roles and responsibilities, core values, communication methods, project goals, milestones, and team agreements. My role in the project was Product Owner, with responsibility for ensuring that the system addressed user needs and stakeholder expectations.
 
@@ -218,6 +219,8 @@ Sprint planning helped me understand how a large project can be divided into sma
 ## Agile Logbook
 ---
 **Evidence:**
+[TASKBOARD.docx](https://github.com/user-attachments/files/34042815/TASKBOARD.docx)
+
 
 The Agile Logbook recorded my progress, planned activities, and challenges during the development of GugsLocalConnect. It helped me reflect on completed work, prepare for upcoming tasks, and identify risks that could affect the team.
 The logbook also recorded that coordinating team members' schedules was a challenge. Microsoft Teams and WhatsApp were used to maintain communication and coordinate activities.
