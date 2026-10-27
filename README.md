@@ -215,10 +215,9 @@ We used Trello to organise work into sprints, assign tasks, and monitor checklis
 Sprint planning helped me understand how a large project can be divided into smaller, manageable stages. I learned that clear task allocation, progress tracking, and communication are important for keeping a team organised. I also recognised that sprint plans need to be reviewed regularly when tasks take longer than expected or priorities change.
 
 ---
-
 ## Agile Logbook
-
-### Evidence
+---
+**Evidence:**
 
 The Agile Logbook recorded my progress, planned activities, and challenges during the development of GugsLocalConnect. It helped me reflect on completed work, prepare for upcoming tasks, and identify risks that could affect the team.
 The logbook also recorded that coordinating team members' schedules was a challenge. Microsoft Teams and WhatsApp were used to maintain communication and coordinate activities.
