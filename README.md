@@ -8,9 +8,9 @@
 ---
 
 ## About Me
-Upcoming Java and web developer with skills and knowledge in client-server applications, database management systems (MySQL), application development, database analysis, HTML, CSS, and partial JavaScript.Software Developer, focused on building real-world, scalable systems. I'm a backend developer with a full-stack mindset
+Upcoming Java and web developer with skills and knowledge in client-server applications, database management systems (MySQL), application development, database analysis, HTML, CSS, and basic JavaScript.Software Developer, focused on building real-world, scalable systems. I'm a backend developer with a full-stack mindset
 
-I aspire to join the working industry to use my skills and knowledge to deliver innovative solutions to the company and to improve my skills. My primary goal is to deliver good results and quality products to the organization.
+I aspire to join the industry to use my skills and knowledge to deliver innovative solutions to the company and to improve my skills. My primary goal is to deliver good results and quality products to the organization.
 
 ---
 ## Profile
@@ -106,5 +106,24 @@ I set up GitHub Pages and linked it to my repository. I ensured my content was w
 **Result:**  
 I successfully published my portfolio online, making it accessible to others. I now understand how GitHub Pages can be used to showcase projects and build a professional online presence.
 
+---
+### Agile Team Charter
+---
+**Evidence:** [GugsLocalConnect Agile Team Charter]
 
+The Agile Team Charter defines the purpose of GugsLocalConnect, the team's roles and responsibilities, core values, communication methods, project goals, milestones, and team agreements. My role in the project was Product Owner, with responsibility for ensuring that the system addressed user needs and stakeholder expectations.
+
+**Reflection on the Agile Team Charter (STAR Method)**
+
+**Situation:**  
+Our team needed a shared understanding of the GugsLocalConnect project, its objectives, and how we would work together.
+
+**Task:**  
+As Product Owner, I needed to understand the project goals and my responsibilities while helping the team stay focused on delivering a useful community platform.
+
+**Action:**  
+I contributed to the project as Product Owner and used the team's agreed roles, communication methods, and Trello task board to support planning and monitor progress. The charter helped establish expectations for collaboration, accountability, and completing assigned tasks.
+
+**Result:**  
+The charter provided a common direction for the team. I learned the importance of defining responsibilities, communicating clearly, and keeping project work aligned with user needs.
 
